@@ -1,2 +1,2 @@
-# bvheiwz_portfolio
+# bvhiewz_portfolio
 A portfolio project for a graphic designer.
