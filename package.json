@@ -1,0 +1,28 @@
+{
+  "name": "bvheiwz_portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio project for a graphic designer.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steph-en/bvheiwz_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steph-en/bvheiwz_portfolio/issues"
+  },
+  "homepage": "https://github.com/Steph-en/bvheiwz_portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemailer": "^6.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
